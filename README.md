@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabiddo&theme=dark)](https://github.com/dabiddo/github-readme-stats)
+
+- 🔭 I’m currently working on [SchemaBP)(https://dabiddo.github.io/schemabp/)
+- 🌱 I’m currently learning Rust / Golang
+- ⚡ Fun fact: I like Dinosaurs.
+
 <!--
 **dabiddo/dabiddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
