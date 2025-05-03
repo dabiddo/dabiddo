@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dabiddo&theme=dark)](https://github.com/dabiddo/github-readme-stats)
 
 - 🔭 I’m currently working on:
--  [SchemaBP)(https://dabiddo.github.io/schemabp).
+-  [SchemaBP](https://dabiddo.github.io/schemabp).
 -  [GoWizard](https://github.com/dabiddo/gowizard)
 - 🌱 I’m currently learning Rust / Golang
 - ⚡ Fun fact: I like Dinosaurs.
